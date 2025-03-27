@@ -12,8 +12,13 @@ public class Customer {
     setId(id);
     setName(name);
     setUsername(username);
-    setpassword(password);
-    setaccountId(accountId);
+    setPassword(password);
+    setAccountId(accountId);
+  }
+
+
+
+  public Customer(int int1) {
   }
 
 
